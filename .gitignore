@@ -1,0 +1,23 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build directories
+dist/
+build/
+.next/
+out/
+
+# Environment files
+.env
+
+# System files
+.DS_Store          # macOS specific
+Thumbs.db          # Windows specific
+
+# VS Code settings
+.vscode/
