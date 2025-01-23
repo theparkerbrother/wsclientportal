@@ -14,6 +14,7 @@ out/
 
 # Environment files
 .env
+.env.local
 
 # System files
 .DS_Store          # macOS specific
