@@ -12,7 +12,7 @@ export default function Home({ companyName, error }) {
 
   return (
     <div>
-      <h1>Welcome to the {companyName} portal!</h1>
+      <h1>Welcome to the {companyName} portal</h1>
     </div>
   );
 }
